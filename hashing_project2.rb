@@ -1,5 +1,5 @@
+require 'bcrypt'
 
- 
 users = [
           { username: "mashrur", password: "password1" },
           { username: "jack", password: "password2" },
@@ -21,3 +21,4 @@ def create_secure_users(list_of_users)
   end
   list_of_users
 end
+
