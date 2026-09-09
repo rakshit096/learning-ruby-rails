@@ -1,0 +1,4 @@
+What You Learned in Ruby,How Rails Uses It
+Classes & OOP (class Student)-->Every controller (ApplicationController) and model (User < ApplicationRecord) is a Ruby class inheriting from Rails base classes.
+Modules & Mixins (module Crud)-->Rails relies heavily on modules to add shared functionality across models and controllers (e.g., concern modules).
+bcrypt (BCrypt::Password)-->Rails has built-in authentication! Adding has_secure_password to a model uses bcrypt under the hood—the exact logic you just mastered in your scripts.
