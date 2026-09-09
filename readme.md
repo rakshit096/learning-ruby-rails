@@ -6,3 +6,5 @@
 * [Ruby gems finder link](https://rubygems.org/)
 
 * [Routing guide in Ruby on Rails](https://guides.rubyonrails.org/routing.html)
+
+* [Git cheat sheet](https://git-scm.com/cheat-sheet)
