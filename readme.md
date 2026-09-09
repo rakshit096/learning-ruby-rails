@@ -1,5 +1,5 @@
 ## 📚 Course Notes & Documentation
-* 📝 [Ruby Concepts notes (Google Docs)](https://docs.google.com/document/d/1xvJuggEY2vmaCkXoexcAjSCGKugNjluGSJyJT-kYbag/edit?tab=t.0)
+* [Ruby Concepts notes (Google Docs)](https://docs.google.com/document/d/1xvJuggEY2vmaCkXoexcAjSCGKugNjluGSJyJT-kYbag/edit?tab=t.0)
 
 * [Rails documentation guide link](https://guides.rubyonrails.org/getting_started.html)
 
