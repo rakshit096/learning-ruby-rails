@@ -8,3 +8,5 @@
 * [Routing guide in Ruby on Rails](https://guides.rubyonrails.org/routing.html)
 
 * [Git cheat sheet](https://git-scm.com/cheat-sheet)
+
+* [Model/Active Record validations](https://www.carmatec.com/blog/rails-active-record-validations-a-comprehensive-guide/)
